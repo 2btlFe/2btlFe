@@ -1,7 +1,7 @@
 ### *<div align="center">I'm Lee Byeong Cheol, A Student Of SungKyunKwan University🇰🇷 </br> </br>I'm obsessed with competitive programming 📈</div>*  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Codeforces - bc7817](https://codeforces.com/profile/bc7817)  
   
 
 - 🌱 I’m currently learning GCP, Banila JS, C++17, etc.  
@@ -81,7 +81,6 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
