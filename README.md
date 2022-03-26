@@ -80,7 +80,12 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [[BOJ] 11976 최소 스패닝 트리&lpar;크루스칼 알고리즘&rpar;](https://developer-2btlfe.tistory.com/7)
+- [[BOJ] 1865 웜홀&lpar;벨만 포드&rpar;](https://developer-2btlfe.tistory.com/6)
+- [[BOJ] 4095 최대 정사각형&lpar;DP&rpar; , 11660 구간 합 구하기 5&lpar;DP&rpar;](https://developer-2btlfe.tistory.com/5)
+- [[boj] 1516 게임 개발&lpar;DFS+DP or 위상 정렬+DP&rpar;](https://developer-2btlfe.tistory.com/4)
+- [[BOJ] 1987 알파벳&lpar;DFS, 백트래킹&rpar;](https://developer-2btlfe.tistory.com/3)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
