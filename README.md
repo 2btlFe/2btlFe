@@ -81,6 +81,7 @@
 ## CP Stats
 [![Solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bc7817)](https://solved.ac/bc7817)
 
+<br/>  
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
