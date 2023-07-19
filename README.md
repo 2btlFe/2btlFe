@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to algorithms for CP  
   
 
-- ⚡ Fun fact: I'm contributing to the ROKAF  
+- ⚡ Fun fact: ETS - ROKAF  
   
 
 <br/>  
