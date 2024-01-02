@@ -1,13 +1,14 @@
 ### *<div align="center">I'm Lee Byeong Cheol, A Student Of SungKyunKwan University🇰🇷 </br> </br>I'm obsessed with competitive programming 📈</div>*  
   
 
-- 🔭 I’m currently working on [Codeforces - bc7817](https://codeforces.com/profile/bc7817)  
+- 🔭 I’m currently working on VCLAB(Prof. Jae-Pil Heo)
+- [Codeforces - Ch.Byeong](https://codeforces.com/profile/Ch.Byeong)  
   
 
-- 🌱 I’m currently learning GCP, Banila JS, C++17, etc.  
+- 🌱 I’m currently learning computer vision, especially Domain Generalized Semantic Segmentation (a.k.a dgss).  
   
 
-- ❓ Ask me about anything related to algorithms for CP  
+- ❓ Ask me about anything related to algorithms for CP or DGSS.  
   
 
 - ⚡ Fun fact: ETS - ROKAF  
