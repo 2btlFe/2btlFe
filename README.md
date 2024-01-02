@@ -1,7 +1,7 @@
 ### *<div align="center">I'm Lee Byeong Cheol, A Student Of SungKyunKwan University🇰🇷 </br> </br>I'm obsessed with competitive programming 📈</div>*  
   
 
-- 🔭 I’m currently working on VCLAB(Prof. Jae-Pil Heo)
+- 🔭 I’m currently working on VCLAB (Prof. Jae-Pil Heo)
 - [Codeforces - Ch.Byeong](https://codeforces.com/profile/Ch.Byeong)  
   
 
